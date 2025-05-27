@@ -1,0 +1,33 @@
+
+
+// void decodeAndPrint(const char* buffer, size_t length) {
+
+//     if (length < sizeof(Header)) {
+//         std::cerr << "Error: Buffer too small for Header\n";
+//         return;
+//     }
+
+//     const Header* header = reinterpret_cast<const Header*>(buffer);
+
+//     std::cout << "RequestType: " << static_cast<int>(header->_type) << "\n";
+//     std::cout << "Payload Size: " << header->_size << "\n";
+
+//     // Check if buffer mein payload ke liye enough data hai
+//     if (length < sizeof(Header) + header->_size) {
+//         std::cerr << "Error: Buffer too small for payload\n";
+//         return;
+//     }
+
+//     // Payload pointer
+//     const char* payload = buffer + sizeof(Header);
+
+//     // Payload ka size IndexDataT ke size ke barabar hai kya?
+//     if (header->_size == sizeof(IndexDataT)) {
+//         // Payload ko IndexDataT pointer mein cast karo
+//         const IndexDataT* data = reinterpret_cast<const IndexDataT*>(payload);
+//         printIndexData(data);  // Print karo
+//     } else {
+//         std::cerr << "Warning: Unknown or unsupported payload size\n";
+//     }
+// }
+

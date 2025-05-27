@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/build",
+  "command": "/usr/bin/g++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/include -Wall -Wextra -O2 -g -o CMakeFiles/tcpudp.dir/src/main.cpp.o -c /home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/main.cpp",
+  "file": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/main.cpp"
+},
+{
+  "directory": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/build",
+  "command": "/usr/bin/g++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/include -Wall -Wextra -O2 -g -o CMakeFiles/tcpudp.dir/src/UdpSender.cpp.o -c /home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/UdpSender.cpp",
+  "file": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/UdpSender.cpp"
+},
+{
+  "directory": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/build",
+  "command": "/usr/bin/g++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/include -Wall -Wextra -O2 -g -o CMakeFiles/tcpudp.dir/src/TcpReceiver.cpp.o -c /home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/TcpReceiver.cpp",
+  "file": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/TcpReceiver.cpp"
+},
+{
+  "directory": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/build",
+  "command": "/usr/bin/g++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/include -Wall -Wextra -O2 -g -o CMakeFiles/tcpudp.dir/src/DataStructure.cpp.o -c /home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/DataStructure.cpp",
+  "file": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/DataStructure.cpp"
+},
+{
+  "directory": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/build",
+  "command": "/usr/bin/g++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -I/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/include -Wall -Wextra -O2 -g -o CMakeFiles/tcpudp.dir/src/DataDecoder.cpp.o -c /home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/DataDecoder.cpp",
+  "file": "/home/dhruv.rohit@corp.merillife.com/Desktop/server_local/tcpudp/src/DataDecoder.cpp"
+}
+]

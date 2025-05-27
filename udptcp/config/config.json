@@ -1,0 +1,6 @@
+{
+  "udp_multicast_group": "229.1.1.9",
+  "udp_port": 2224,
+  "tcp_server_ip": "0.0.0.0",
+  "tcp_server_port": 5000
+}

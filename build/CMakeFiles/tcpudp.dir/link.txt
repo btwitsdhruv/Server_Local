@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wall -Wextra -O2 -g CMakeFiles/tcpudp.dir/src/main.cpp.o CMakeFiles/tcpudp.dir/src/UdpSender.cpp.o CMakeFiles/tcpudp.dir/src/TcpReceiver.cpp.o CMakeFiles/tcpudp.dir/src/DataStructure.cpp.o CMakeFiles/tcpudp.dir/src/DataDecoder.cpp.o -o tcpudp  -lpthread 
